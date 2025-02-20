@@ -41,7 +41,7 @@ export default function TOC() {
         </Nav.Item> 
         
         <Nav.Item> 
-            <Nav.Link href="https://github.com/shahjwal/kambaz-react-web-app/tree/a3/" 
+            <Nav.Link href="https://github.com/shahjwal/kambaz-react-web-app" 
           id="wd-github"
           target="_blank"
           rel="noopener noreferrer"
